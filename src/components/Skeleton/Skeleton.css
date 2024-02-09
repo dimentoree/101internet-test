@@ -1,0 +1,6 @@
+.skeleton {
+    width: 278px;
+    height: 630px;
+    background: var(--periwinkle-crayola-2);
+    border-radius: 10px;
+}
