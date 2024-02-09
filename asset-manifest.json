@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/101internet-test/static/css/main.ed5b8c8b.css",
+    "main.js": "/101internet-test/static/js/main.784739ad.js",
+    "static/media/Beeline.svg": "/101internet-test/static/media/Beeline.efb897ed5bf58d315a9de5c43ba52b29.svg",
+    "static/media/WhatsApp.svg": "/101internet-test/static/media/WhatsApp.5c6ba7ef5db0581d7dca709e36bc74de.svg",
+    "static/media/Viber.svg": "/101internet-test/static/media/Viber.3ff8bee8ffae33395843bff08cb87b5d.svg",
+    "static/media/plus.svg": "/101internet-test/static/media/plus.bf6ae7fc4cf69a9afe5dbb614ff6de9f.svg",
+    "static/media/Vk.svg": "/101internet-test/static/media/Vk.2b8e09c5a881e6164f22434245146fdc.svg",
+    "static/media/left_arrow.svg": "/101internet-test/static/media/left_arrow.ce8ff3767bb7c5cb2984de559e8455f2.svg",
+    "static/media/right_arrow.svg": "/101internet-test/static/media/right_arrow.51e23bea17473f83de837950fef96b2b.svg",
+    "static/media/Telegram.svg": "/101internet-test/static/media/Telegram.a3d8a7f3d798dcefd900a68bf858888c.svg",
+    "static/media/YouTube.svg": "/101internet-test/static/media/YouTube.0fcb7f6fd84d7509fbde3879b2d1a762.svg",
+    "static/media/minus.svg": "/101internet-test/static/media/minus.092e57ef7b2e647a67ce1916de4e2aac.svg",
+    "index.html": "/101internet-test/index.html",
+    "static/media/More.svg": "/101internet-test/static/media/More.0ff59bf723dfdc42689691d6342b616d.svg",
+    "main.ed5b8c8b.css.map": "/101internet-test/static/css/main.ed5b8c8b.css.map",
+    "main.784739ad.js.map": "/101internet-test/static/js/main.784739ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed5b8c8b.css",
+    "static/js/main.784739ad.js"
+  ]
+}
