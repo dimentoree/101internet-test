@@ -1,0 +1,19 @@
+.tariff__container {
+    width: 320px;
+    padding: 45px 20px 91px;
+    background: var(--page-background);
+}
+
+.tariff__title {
+    margin-bottom: 15px;
+    font: normal normal 600 16px/19.2px 'Museo Sans Cyrl', sans-serif;
+    color: var(--signal-blue);
+    letter-spacing: 1.78px;
+    text-transform: uppercase;
+}
+
+.tariff__stripe {
+    width: 48.31px;
+    margin-bottom: 18px;
+    border: 1px solid var(--persian-blue);
+}

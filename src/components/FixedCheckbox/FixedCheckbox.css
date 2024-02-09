@@ -1,0 +1,39 @@
+.checkbox__input {
+    display: none;
+}
+
+.checkbox__state {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.checkbox__control {
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--white);
+    border: 1px solid var(--light-purple-blue);
+    border-radius: 1px;
+}
+
+.checkbox__title {
+    margin: 0;
+    font: normal normal 300 16px/17px 'Museo Sans Cyrl', sans-serif;
+    color: var(--light-purple-blue);
+    text-transform: lowercase;
+}
+
+.checkbox__input:checked ~ .checkbox__state .checkbox__control .checkbox__icon {
+    fill: var(--persian-blue);
+    border: 1px solid var(--persian-blue);
+}
+
+.checkbox__input:checked ~ .checkbox__state .checkbox__title {
+    font: normal normal 400 16px/17px 'Museo Sans Cyrl', sans-serif;
+    color: var(--persian-blue);
+}

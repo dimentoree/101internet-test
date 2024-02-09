@@ -1,0 +1,26 @@
+.tariff-settings__parametr {
+    width: 260px;
+    height: 105px;
+    padding: 12px 12px 18px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tariff-settings__parametr-container {
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tariff-settings__meaning {
+    margin: 12px 0 15px;
+    font: normal normal 600 30px/23px 'Museo Sans Cyrl', sans-serif;
+    color: var(--signal-blue);
+}
+
+.tariff-settings__measurement {
+    margin-left: 5px;
+    font: normal normal 400 16px/17px 'Museo Sans Cyrl', sans-serif;
+    color: var(--signal-blue);
+}
