@@ -1,0 +1,13 @@
+.parametr-button {
+    border: none; 
+    outline: none;
+    cursor: default;
+}
+
+.parametr-button:focus {
+    outline: none;
+}
+
+.parametr-button__icon {
+    cursor: pointer;
+}

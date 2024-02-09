@@ -1,0 +1,14 @@
+.tariff-settings {
+    width: 280px;
+    height: 630px;
+    padding: 25px 10px 35px;
+    border: 1px solid var(--persian-blue);
+    border-radius: 10px;
+}
+
+.tariff-settings__title {
+    margin-bottom: 10px;
+    font: normal normal 600 18px/21.6px 'Museo Sans Cyrl', sans-serif;
+    color: var(--persian-blue);
+    text-align: center;
+}

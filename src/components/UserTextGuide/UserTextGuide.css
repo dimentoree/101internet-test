@@ -1,0 +1,15 @@
+.tariff__guide {
+    width: 280px;
+    height: 180px;
+    margin-bottom: 25px;
+}
+
+.tariff__guide-text {
+    margin: 0;
+    font: normal normal 300 14px/22px 'Museo Sans Cyrl', sans-serif;
+    color: var(--light-purple-blue);
+}
+
+.tariff__guide-text_bold {
+    font: normal normal 600 14px/22px 'Museo Sans Cyrl', sans-serif;
+}

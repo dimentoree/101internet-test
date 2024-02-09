@@ -1,0 +1,17 @@
+@import '../fonts/fonts.css';
+
+:root {
+    --periwinkle-crayola: #F5F6F9;
+    --white: #FFFFFF;
+    --signal-blue: #2C1D5D;
+    --persian-blue: #5813FE;
+    --light-purple-blue: #8E87A3;
+
+    --page-background: var(--periwinkle-crayola);
+
+    --primary: var(--persian-blue);
+}
+
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
